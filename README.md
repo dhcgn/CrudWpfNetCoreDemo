@@ -10,12 +10,16 @@ To archive this, you will find here a CRUD application for the well-known databa
 The repository will include:
 
 1. WFP GUI
-  1. Converter for bindungs
-  1. Filter for data grids
-  1. Styles for controls
+    1. Converter for bindings
+    1. Filter for data grids
+    1. Styles for controls
+    1. MVVM pattern
+    1. Commands
 1. EF Core
+    1. Scaffolding from an existing database (here Chinook-sqlite)
 1. Database Project
 1. xUnit Tests
+1. CI
 
 ## Running
 
