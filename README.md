@@ -23,4 +23,4 @@ The repository will include:
 
 ## Running
 
-Open Demo.sln with Visual Studio 15.9.3 or higher or the newest vscode, you need to have .NET Core SDK 3.0.100 or higher installed.
+Open Demo.sln with **Visual Studio 15.9.3 preview** or higher or the newest vscode, you need to have **.NET Core SDK 3.0.100** or higher installed.
